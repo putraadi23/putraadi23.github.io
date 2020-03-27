@@ -1,0 +1,21 @@
+ body {background-color: black; }
+ h1 {font-family: arial;
+	color : black;
+	text-shadow: 0px 0px 10px white;
+	font-size: 45px;
+	border-top:5px solid white;
+	border-bottom: 5px solid white;
+	background-color: black;
+	width: 15%;
+}
+img{border-radius: 150px}
+ ul{
+ 	background-color: white;
+ 	width: 40%;
+ }
+
+p{
+ 	background-color: white;
+ 	width: 45%;
+ }
+ p{text-align: justify;}
